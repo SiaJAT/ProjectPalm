@@ -53,7 +53,8 @@ python project_palm.py
 
 When the window opens, it will show the hue detection region as a grid
 of blue rectangles. To initiate the hue detection, place your palm over
-the region, covering it entirely, and then press the 'q' key. The
+the region, covering it entirely, and then click on the window that
+is displaying the webcam feed.  Then press the 'q' key. The
 program will analyze the hue in the region for 25 frames and then
 automatically go into gesture mode. From this window, you can make
 gestures to control the mouse.
