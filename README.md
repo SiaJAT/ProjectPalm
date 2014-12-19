@@ -15,7 +15,7 @@ For our final project, we tackled the problem of Hand detection. In this README 
 * Python 2.7 
 * Numpy 
 * Open cv 2.4.9
-* PyUserInput 
+* PyUserInput (https://github.com/SavinaRoja/PyUserInput)
 * Internal webcam to the computer 
 
 
