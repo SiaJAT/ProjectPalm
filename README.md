@@ -8,8 +8,6 @@ Project Palm - simple mouse manipulation via hand tracking
 * Chirag Sahkhuja
 * Julian Sia
 
-<img height="350" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_header.png"/>
-
 For our final project, we tackled the problem of Hand detection. In this README we have outlined the way the directory is organized and the programs to run to make the code work
 
 ### Neccessary libraries, languages, and hardware 
