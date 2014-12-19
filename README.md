@@ -40,6 +40,7 @@ For our final project, we tackled the problem of Hand detection. In this README 
 * Rosebrock, A. (2014, August 18). Tutorial: Skin Detection Example using Python and OpenCV, [online] Available at: <http://www.pyimagesearch.com/2014/08/18/skin-detection-step-step-example- using-python-opencv/>[Accessed December 2, 2014].
 
 #### Installing dependencies
+
 '''bash
 sudo sh install_dependencies.sh
 '''
