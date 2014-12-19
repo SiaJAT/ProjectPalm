@@ -41,9 +41,9 @@ For our final project, we tackled the problem of Hand detection. In this README 
 
 #### Installing dependencies
 
-'''bash
+```bash
 sudo sh install_dependencies.sh
-'''
+```
 
 #### Running the code 
 
